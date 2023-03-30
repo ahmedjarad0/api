@@ -1,6 +1,10 @@
 # api
 
-A new Flutter project.
+A Flutter app auth & Upload Image API Flutter 
+ with the GetX 
+
+
+
 
 ## Getting Started
 
